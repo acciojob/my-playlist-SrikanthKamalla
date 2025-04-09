@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.carousel-inner > .item {
+      height: 400px;
+      color: white;
+      text-align: center;
+      line-height: 400px;
+      font-size: 24px;
+    }
+
+    .first-slide { background-color: #1abc9c; }
+    .second-slide { background-color: #3498db; }
+    .third-slide { background-color: #9b59b6; }
+    .fourth-slide { background-color: #e67e22; }
+    .fifth-slide { background-color: #e74c3c; }
